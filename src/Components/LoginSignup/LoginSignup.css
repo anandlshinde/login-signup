@@ -19,12 +19,12 @@
 
 .text{
     color: #0077C5;
-    font-size: 28px;
-    font-weight: 500;
+    font-size: 22px;
+    font-weight: 400;
 }
 
 .underline{
-    width: 41px;
+    width: 50px;
     height: 4px;
     background: #0077C5;
     border-radius: 9px;
@@ -90,7 +90,7 @@
     color: #fff;
     background: #0077C5;
     border-radius: 50px;
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 500;
     cursor: pointer;
 }
